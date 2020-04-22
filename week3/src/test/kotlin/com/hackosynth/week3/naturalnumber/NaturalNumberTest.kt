@@ -4,7 +4,6 @@ import com.hackosynth.week3.naturalnumber.NaturalNumber.classify
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertThrows
 import org.junit.jupiter.api.Test
-
 class NaturalNumberTest {
     @Test
     fun `Small perfekt number is classified correctly`() {
